@@ -9,10 +9,10 @@ import (
 
 	arrow "github.com/bmuller/arrow/lib"
 
-	"github.com/noirbizarre/gonja/exec"
-	"github.com/noirbizarre/gonja/nodes"
-	"github.com/noirbizarre/gonja/parser"
-	"github.com/noirbizarre/gonja/tokens"
+	"github.com/mingfa929/gonja/exec"
+	"github.com/mingfa929/gonja/nodes"
+	"github.com/mingfa929/gonja/parser"
+	"github.com/mingfa929/gonja/tokens"
 )
 
 type TimeOffset struct {

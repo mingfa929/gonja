@@ -3,7 +3,7 @@ package tokens_test
 import (
 	"testing"
 
-	"github.com/noirbizarre/gonja/tokens"
+	"github.com/mingfa929/gonja/tokens"
 	"github.com/stretchr/testify/assert"
 )
 

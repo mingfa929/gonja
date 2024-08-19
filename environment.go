@@ -6,10 +6,10 @@ import (
 
 	"github.com/goph/emperror"
 
-	"github.com/noirbizarre/gonja/builtins"
-	"github.com/noirbizarre/gonja/config"
-	"github.com/noirbizarre/gonja/exec"
-	"github.com/noirbizarre/gonja/loaders"
+	"github.com/mingfa929/gonja/builtins"
+	"github.com/mingfa929/gonja/config"
+	"github.com/mingfa929/gonja/exec"
+	"github.com/mingfa929/gonja/loaders"
 )
 
 type Environment struct {

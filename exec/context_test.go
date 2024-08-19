@@ -5,7 +5,7 @@ import (
 
 	"testing"
 
-	"github.com/noirbizarre/gonja/exec"
+	"github.com/mingfa929/gonja/exec"
 	"github.com/stretchr/testify/assert"
 )
 

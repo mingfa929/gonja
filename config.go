@@ -1,6 +1,6 @@
 package gonja
 
-import "github.com/noirbizarre/gonja/config"
+import "github.com/mingfa929/gonja/config"
 
 type Config config.Config
 
